@@ -64,7 +64,7 @@ if __name__ == "__main__":
     print(f"--> Saving output to: {OUTPUT_FILE}")
 
     try:
-        certstream.listen_for_events(process_certificate, url='wss://certstream.com/')
+        certstream.listen_for_events(process_certificate, url='wss://certstream.calidog.io/')
     except KeyboardInterrupt:
         print("\n--> Monitor stopped.")
         sys.exit(0)
