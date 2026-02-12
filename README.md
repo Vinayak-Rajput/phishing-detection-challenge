@@ -1,4 +1,4 @@
-# AI-Powered Phishing Detection Engine
+# Automated Phishing Data Pipeline
 
 A complete machine learning pipeline built in Python to detect and classify phishing URLs in near real-time. This project leverages a multi-source data pipeline and feature engineering to train a predictive model that can identify malicious domains.
 
